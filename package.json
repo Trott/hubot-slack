@@ -38,7 +38,7 @@
     "coffeescript": "^1.12.7",
     "hubot": ">= 2.19.0",
     "istanbul": "^0.4.3",
-    "mocha": "^3.5.3",
+    "mocha": "^6.1.4",
     "mockery": "^2.1.0",
     "should": "^8.0.0"
   },
